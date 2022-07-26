@@ -32,6 +32,7 @@ based upon work by LisiasT -->
 * "DM/F" and "DMF"  is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
+* KerbSimpleCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
 
 ## DaMichel Ltd
@@ -46,9 +47,9 @@ based upon work by LisiasT -->
 
 * "Color Curves Company" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
-## Kerbal Simple Co (KerbSimCo)
+## Kerbal Simple Co (KerbSimCo) (KerbSimpleCo) (KSC)
 
-* "Kerbal Simple Co (KerbSimCo)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+* "Kerbal Simple Co (KerbSimCo) (KerbSimpleCo) (KSC)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Space Program
 
