@@ -65,9 +65,9 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         * #.#.#.#.htm
         * Attributions.htm
-        * CC-BY-SA-3.0.txt
+        * CC-BY-SA-4.0.txt
         * changelog.md
-        * FuselageLtd.version
+        * Fuselage.version
         * ManualInstallation.htm
         * readme.htm
     ...
