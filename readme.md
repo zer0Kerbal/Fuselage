@@ -61,7 +61,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Cabin Notes by [`DaMichel`][damichel]
 >
-> ***Usage of FerramAerospaceResearch*** is strongly recommended. The parts have some values for stock aerodynamic parameters but i have no idea if they are reasonable nor will i take the time to balance for stock. In contrast, FAR figures this stuff out automagically.
+> ***Usage of FerramAerospaceResearch*** is strongly recommended. The parts have some values for stock aerodynamic parameters but I have no idea if they are reasonable nor will I take the time to balance for stock. In contrast, FAR figures this stuff out automagically.
 
 ---
 
@@ -176,7 +176,11 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 > Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
-
+>
+> [Permission granted by original author](http://forum.kerbalspaceprogram.com/index.php?/topic/55842-partswip-damichels-partsCargoBays-r2-2222015/&do=findComment&comment=2568712)
+> Content originally created by [`DaMichel`][damichel].
+> These parts are released under Creative Commons Attribution-ShareAlike 3.0 Unported License.
+> I used textures from StretchySRBs, heavily modified/integrated into my own.
 ---
 
 ### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
@@ -206,8 +210,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:0:source]: https://www.dropbox.com/s/ayqdo72ieq0do86/DMTanks_Mar06-2014.zip"Dropbox"
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
 
-[MOD:1:dnload]: https://github.com/ColorCurves/AeroRTG "GitHub"
-[MOD:1:source]: https://github.com/ColorCurves/AeroRTG "GitHub"
+[MOD:1:dnload]: https://github.com/ColorCurves/Fuselage "GitHub"
+[MOD:1:source]: https://github.com/ColorCurves/Fuselage "GitHub"
 [MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
 
 [MOD:2:dnload]: https://www.curseforge.com/kerbal/ksp-mods/Fuselage "GitHub"
