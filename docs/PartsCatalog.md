@@ -23,24 +23,24 @@ This part add-on adds seven (7) stock-a-like flat fuselage parts. These parts ar
 
 ---
 
-* PB-NUK Aerodynamic Radioisotope Thermoelectric Generator
+* DM-fuselage-adapter
+* DM-fuselage-front
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/DM-RTG_icon.png" alt="Mallet" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/GameData/DaMichel/Fuselage/Parts/%40thumbs/DM-fuselage-adapter_icon.png" alt="DM-fuselage-adapter" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/GameData/DaMichel/Fuselage/Parts/%40thumbs/DM-fuselage-front_icon.png" alt="DM-fuselage-front" width="25%" height="25%" />
 
-* PB-ZAP A Radial Aerodynamic Fuel Cell
+* DM-fuselage-cone
+* DM-fuselage-tailboom
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/DM-RFC_icon.png" alt="MicroPad" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/GameData/DaMichel/Fuselage/Parts/%40thumbs/DM-fuselage-cone_icon.png" alt="DM-fuselage-cone" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/GameData/DaMichel/Fuselage/Parts/%40thumbs/DM-fuselage-tailboom_icon.png" alt="DM-fuselage-tailboom" width="25%" height="25%" />
 
----
+* DM-fuselage-intake
 
-DM-fuselage-adapter
-DM-fuselage-cone
-DM-fuselage-front
-DM-fuselage-intake
-DM-fuselage-tailboom
-DM-fuselage-X1
-DM-fuselage-X2
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/GameData/DaMichel/Fuselage/Parts/%40thumbs/DM-fuselage-intake_icon.png" alt="DM-fuselage-intake" width="25%" height="25%" />
 
+* DM-fuselage-X1
+* DM-fuselage-X2
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/GameData/DaMichel/Fuselage/Parts/%40thumbs/DM-fuselage-X1_icon.png" alt="DM-fuselage-X1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/GameData/DaMichel/Fuselage/Parts/%40thumbs/DM-fuselage-X2_icon.png" alt="DM-fuselage-X2" width="25%" height="25%" />
 
 [top](#Parts-Catalog)
 
