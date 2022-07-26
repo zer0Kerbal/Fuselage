@@ -60,6 +60,7 @@
 * Add
   * header
   * [DRAG_CUBE]
+  * @thumbs
 * Update
   * [manufacturer] = #DML-Agency-titl
 * [DM-fuselage-adapter] v1.0.1.0
