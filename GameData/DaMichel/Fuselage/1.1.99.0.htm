@@ -33,7 +33,262 @@ edition</h1>
 <div style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center"><h4>
 <b>DO A CLEAN INSTALL:</br> DELETE EXISTING INSTALLATION THEN RE-INSTALL</b></h4><p>Download from <a href="https://www.curseforge.com/kerbal/ksp-mods/Fuselage/files">CurseForge</a></p></div>
 
-<h2 id="initial-release">Initial release</h2>
+<h2 id="changes">Changes</h2>
+<h3 id="summary-11990">Summary 1.1.99.0</h3>
+<ul>
+<li>Initial Prerelease</li>
+<li>New Dependency
+<ul>
+<li><a
+href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/"
+title="DaMichel Ltd (DM/L)">DaMichel Ltd (agency, flag, common
+files)(DM/L)</a></li>
+</ul></li>
+</ul>
+<h3 id="license">License</h3>
+<ul>
+<li>Updated License: CC-BY-SA-4.0
+<ul>
+<li>was: CC-BY-SA-3.0</li>
+</ul></li>
+<li>closes #36 - License</li>
+</ul>
+<h3 id="compatibility">Compatibility</h3>
+<ul>
+<li>Add
+<ul>
+<li>[ghostparts.cfg] v1.0.0.0
+<ul>
+<li>part renamed: [DM-fuselage-intake] --&gt; DMfuselage-intake</li>
+</ul></li>
+</ul></li>
+<li>Update
+<ul>
+<li>All
+<ul>
+<li>rename [B9Volume] -&gt; [TankVolume]</li>
+</ul></li>
+<li>[ActiveTextureManagement.cfg] - v 1.0.0.0
+<ul>
+<li>disabled by default</li>
+<li>renamed to [ActiveTextureManagement.cfg.0]</li>
+</ul></li>
+<li>[AdvancedJetEngine.cfg] v1.0.0.0</li>
+<li>[B9FuelSwitch.cfg] v1.2.0.0
+<ul>
+<li>simplified patch</li>
+<li>swap [SUBTYPE] name &lt;--&gt; title</li>
+</ul></li>
+<li>[B9NodeSwitch.cfg] v1.0.0.0</li>
+<li>[ModularFuelTanks.cfg] v1.1.0.0
+<ul>
+<li>simplified patch
+<ul>
+<li>one patch instead of five</li>
+</ul></li>
+<li>[description]
+<ul>
+<li>correct ModuleFuelTanks --&gt; Modular Fuel Tanks</li>
+</ul></li>
+</ul></li>
+<li>[RealFuels.cfg] v1.1.0.0
+<ul>
+<li>simplified patch
+<ul>
+<li>one patch instead of five</li>
+</ul></li>
+<li>added [description]</li>
+</ul></li>
+</ul></li>
+</ul>
+<h3 id="parts">Parts</h3>
+<ul>
+<li>Add
+<ul>
+<li>header</li>
+<li>[DRAG_CUBE]</li>
+</ul></li>
+<li>Update
+<ul>
+<li>[manufacturer] = #DML-Agency-titl</li>
+</ul></li>
+<li>[DM-fuselage-adapter] v1.0.1.0
+<ul>
+<li>[tags] now #autoLOC_500561 was #DMF-adapter-tags</li>
+<li>[ModuleCargoPart]
+<ul>
+<li>Dimensions: x: 1.25, y: 1.88, z: 1.25</li>
+<li>Bounding Box Size: 2930.072 liters</li>
+<li>[packedVolume] = 3000</li>
+</ul></li>
+</ul></li>
+<li>[DM-fuselage-front] v1.0.1.0
+<ul>
+<li>[tags] now #autoLOC_500162 was #DMF-front-tags</li>
+<li>[ModuleCargoPart]
+<ul>
+<li>[packedVolume] = 2150</li>
+<li>Dimensions: x: 1.25, y: 1.88, z: 0.89</li>
+<li>Bounding Box Size: 2091.797 liters</li>
+</ul></li>
+</ul></li>
+<li>[DM-fuselage-cone] v1.0.1.0
+<ul>
+<li>[tags] now #autoLOC_500111 was #DMF-cone-tags</li>
+<li>[ModuleCargoPart]
+<ul>
+<li>Dimensions: x: 1.16, y: 1.88, z: 1.16</li>
+<li>Bounding Box Size: 2524.812 liters</li>
+<li>[packedVolume] = 2600</li>
+</ul></li>
+</ul></li>
+<li>[DM-fuselage-tailboom] v1.0.1.0
+<ul>
+<li>[tags] now #autoLOC_500165 was #DMF-tailboom-tags</li>
+<li>[ModuleCargoPart]
+<ul>
+<li>Dimensions: x: 0.40, y: 3.75, z: 0.30</li>
+<li>Bounding Box Size: 450 liters</li>
+<li>[packedVolume] = 500</li>
+</ul></li>
+</ul></li>
+<li>[DM-fuselage-X1] v1.0.1.0
+<ul>
+<li>[tags] is #autoLOC_500573 was #DMF-X1-tags</li>
+<li>[ModuleCargoPart]
+<ul>
+<li>Dimensions: x: 1.25, y: 1.88, z: 0.89</li>
+<li>Bounding Box Size: 2091.797 liters</li>
+<li>[packedVolume] = 2125</li>
+</ul></li>
+</ul></li>
+<li>[DM-fuselage-X2] v1.0.1.0
+<ul>
+<li>[tags] is #autoLOC_500573 was #DMF-X2-tags</li>
+<li>[ModuleCargoPart]
+<ul>
+<li>Dimensions: x: 1.25, y: 3.75, z: 0.89</li>
+<li>Bounding Box Size: 4183.594 liters</li>
+<li>[packedVolume] = 4200</li>
+</ul></li>
+</ul></li>
+<li>[DM-fuselage-intake] v1.0.1.0
+<ul>
+<li>[tags] is #autoLOC_500575 was #DMF-intake-tags</li>
+<li>[ModuleCargoPart]
+<ul>
+<li>Dimensions: x: 1.25, y: 2.23, z: 0.89</li>
+<li>Bounding Box Size: 2487.771 liters</li>
+<li>[packedVolume] = 2500</li>
+</ul></li>
+</ul></li>
+<li>closes #40 - Update Parts</li>
+</ul>
+<h3 id="asset-updates">Asset Updates</h3>
+<ul>
+<li>create Assets/ folder</li>
+<li>convert from mesh to MODEL</li>
+<li>rename
+<ul>
+<li>models to unique names</li>
+<li>textures to unique names</li>
+</ul></li>
+<li>update
+<ul>
+<li>model pointers (.png et al to .dds)</li>
+<li>model texture pointers to new names</li>
+</ul></li>
+<li>relocate assets to Assets/</li>
+<li>eliminate
+<ul>
+<li>duplicate textures</li>
+<li>duplicate models</li>
+</ul></li>
+<li>relocate part.cfg to Parts</li>
+<li>closes #28 - Asset Updates</li>
+</ul>
+<h3 id="localization">Localization</h3>
+<ul>
+<li>Update
+<ul>
+<li>[en-us.cfg] v1.1.0.0</li>
+<li>[readme.md] v2.1.2.0</li>
+<li>[quickstart.md] v1.0.1.1</li>
+<li>Config/
+<ul>
+<li>[Fuselage.cfg] v1.0.0.0
+<ul>
+<li>adds localized tags to parts</li>
+</ul></li>
+</ul></li>
+<li>Parts
+<ul>
+<li>[ModuleToggleCrossfeed]
+<ul>
+<li>#DMF-enableText --&gt; #autoLOC_236028 // Enable Crossfeed</li>
+<li>#DMF-disableText --&gt; #autoLOC_236030 // Disable Crossfeed</li>
+<li>add: #autoLOC_236032 // Toggle Crossfeed</li>
+</ul></li>
+<li>[ModuleAnimateGeneric]
+<ul>
+<li>#DMF-startEventGUIName --&gt; #autoLOC_6001425 // Toggle Intake</li>
+<li>#DMF-endEventGUIName --&gt; #autoLOC_6001426 // Close Intake</li>
+<li>#DMF-actionGUIName --&gt; #autoLOC_6001427 // Open Intake</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>updates #6 - Localization - Master</li>
+<li>closes #7 - American English &lt;us-en.cfg&gt;</li>
+<li>closes #37 - Add localized tags to parts</li>
+</ul>
+<h3 id="docs">docs/</h3>
+<ul>
+<li>Add/Update
+<ul>
+<li>[Attribution.md] v1.0.7.1</li>
+<li>[ManualInstallation.md] v1.1.8.0</li>
+<li>[404.md] v1.0.3.2</li>
+<li>[LegalMumboJumbo.md] v1.0.5.1</li>
+<li>[Localizations.md] v1.1.7.0</li>
+<li>[Marketing.md] v1.0.1.0</li>
+<li>[Notices.md] v1.0.1.0</li>
+<li>[Part-Catalog.md] v1.1.4.0</li>
+<li>[Why.md] v1.1.0.0</li>
+<li>[_config.yml]</li>
+<li>[changelog.md]
+<ul>
+<li>add header for docs/</li>
+</ul></li>
+</ul></li>
+<li>closes #38 - docs/</li>
+</ul>
+<h3 id="documentation">Documentation</h3>
+<ul>
+<li>Update
+<ul>
+<li>[Readme.md] v1.6.9.2</li>
+<li>[ReleaseNotes.md] v1.3.1.1</li>
+<li>[Fuselage.version]
+<ul>
+<li>remove
+<ul>
+<li>[KSP_VERSION_MAX]</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>closes #39 - Update Documentation</li>
+</ul>
+<h3 id="status">Status</h3>
+<ul>
+<li>Issues
+<ul>
+<li>closes #2 - Fuselage (DMF) 1.1.99.0-prerelease
+<code>&lt;Split'n'Polish: Fuselage&gt;</code></li>
+<li>closes #3 - 1.1.99.0 Verify Legal Mumbo Jumbo</li>
+<li>closes #4 - 1.1.99.0 Update Documentation</li>
+<li>closes #5 - 1.1.99.0 Update Social Media</li>
+</ul></li>
+</ul>
 <hr />
 <h2 id="see-more">See More</h2>
 <ul>
@@ -51,7 +306,7 @@ title="Issue Tracker">Known Issues</a></li>
 <li>GitHub Pages : See <a href="https://zer0kerbal.github.io/Fuselage/"
 title="GitHub Pages">Pages</a></li>
 </ul>
-<h2 id="localization">Localization</h2>
+<h2 id="localization-1">Localization</h2>
 <blockquote>
 <ul>
 <li><img
