@@ -20,6 +20,8 @@
 * Initial Prerelease
 * New Dependency
   * [DaMichel Ltd (agency, flag, common files)(DM/L)][DML]
+* All thumbs should now be available.
+* Can now search for 'DMF' in the editor search bar to find all Fuselage parts.
 
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
 
@@ -143,7 +145,7 @@
       * #DMF-endEventGUIName --> #autoLOC_6001426 // Close Intake
       * #DMF-actionGUIName --> #autoLOC_6001427 // Open Intake
 * updates #6 - Localization - Master
-* closes #7 - American English <us-en.cfg>
+* closes #7 - English <en-us.cfg>
 * closes #37 - Add localized tags to parts
 
 ### docs/
